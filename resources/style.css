@@ -126,6 +126,15 @@ article.single-post .post-images img {
     margin-bottom: 0;
 }
 
+.post-body blockquote {
+    margin: 1.25rem 0;
+    padding-left: 1rem;
+    border-left: 2px solid #ddd;
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.55;
+}
+
 /* Treat h1 in body as a section heading (avoids duplicate-title issues) */
 .post-body h1 {
     font-size: 1rem;
