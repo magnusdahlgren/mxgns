@@ -1,0 +1,212 @@
+/* === Reset & base === */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "DM Sans", system-ui, sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+    color: #1a1a1a;
+    background: #fff;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+}
+
+img {
+    max-width: 100%;
+}
+
+/* === Header === */
+
+header {
+    padding: 3rem 1.5rem 2.5rem;
+    text-align: center;
+}
+
+header a {
+    font-size: 2em;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #999;
+}
+
+/* === Main layout === */
+
+main {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0 1.5rem 2rem;
+}
+
+/* === Articles === */
+
+article {
+    margin-bottom: 4rem;
+}
+
+article + article {
+    padding-top: 4rem;
+    border-top: 1px solid #ebebeb;
+}
+
+/* === Post title === */
+
+article > h1 {
+    font-size: 1.15rem;
+    font-weight: 500;
+    line-height: 1.3;
+    margin: 0 0 0.9rem;
+}
+
+article > h1 a {
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+article > h1 a:hover {
+    color: #555;
+}
+
+/* === Images === */
+
+.post-images {
+    margin-bottom: 1.5rem;
+}
+
+.post-images figure {
+    margin: 0;
+}
+
+.post-images figure + figure {
+    margin-top: 3px;
+}
+
+.post-images img {
+    width: 100%;
+    display: block;
+    border-radius: 2px;
+}
+
+/* Full-bleed images on individual post pages */
+article.single-post .post-images {
+    width: 100vw;
+    max-width: 840px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 2rem;
+}
+
+article.single-post .post-images img {
+    border-radius: 0;
+}
+
+/* === Post body === */
+
+.post-body {
+    font-size: 0.95rem;
+    color: #333;
+}
+
+.post-body p {
+    margin: 0 0 0.85rem;
+}
+
+.post-body p:last-child {
+    margin-bottom: 0;
+}
+
+/* Treat h1 in body as a section heading (avoids duplicate-title issues) */
+.post-body h1 {
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 1.4rem 0 0.4rem;
+    color: #1a1a1a;
+}
+
+.post-body h2 {
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 1.4rem 0 0.4rem;
+    color: #1a1a1a;
+}
+
+.post-body h3 {
+    font-size: 0.95rem;
+    font-weight: 500;
+    margin: 1.2rem 0 0.3rem;
+    color: #1a1a1a;
+}
+
+/* === Date === */
+
+article footer {
+    margin-top: 0.7rem;
+}
+
+time {
+    font-size: 0.8rem;
+    color: #bbb;
+}
+
+time a {
+    color: #bbb;
+    text-decoration: none;
+}
+
+time a:hover {
+    color: #555;
+}
+
+/* === Nav: shared base === */
+
+main + nav {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0 1.5rem 5rem;
+}
+
+/* === Nav: back link (individual post page) === */
+
+main + nav > a {
+    font-size: 0.8rem;
+    color: #888;
+    text-decoration: none;
+}
+
+main + nav > a:hover {
+    color: #1a1a1a;
+}
+
+/* === Nav: pagination (index pages) === */
+
+main + nav > ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+main + nav > ul li.older {
+    margin-left: auto;
+}
+
+main + nav > ul a {
+    font-size: 0.85rem;
+    color: #888;
+    text-decoration: none;
+}
+
+main + nav > ul a:hover {
+    color: #1a1a1a;
+}
