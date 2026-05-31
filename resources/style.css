@@ -199,28 +199,69 @@ time a:hover {
     color: #2d4d7a;
 }
 
+/* === Footer === */
+
+body > footer {
+    padding: 2rem 1.5rem 3rem;
+    text-align: center;
+}
+
+body > footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+body > footer li {
+    font-size: 0.8rem;
+    color: #bbb;
+}
+
+body > footer li + li {
+    border-left: 1px solid #aaa;
+    padding-left: 0.75rem;
+    margin-left: 0.75rem;
+}
+
+body > footer a {
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+body > footer a:hover {
+    color: #4a6fa5;
+}
+
+body > footer strong {
+    font-weight: 700;
+}
+
 /* === Nav: shared base === */
 
-main + nav {
+main + nav,
+nav + nav {
     max-width: 680px;
     margin: 0 auto;
     padding: 0 1.5rem 2rem;
 }
 
-nav + nav {
-    max-width: 680px;
-    margin: 0 auto;
-    padding: 0 1.5rem 5rem;
+nav:last-of-type {
+    padding-bottom: 5rem;
 }
 
-/* === Nav: back link (individual post page) === */
+/* === Nav: back link === */
 
+main + nav > a,
 nav + nav > a {
     font-size: 0.85rem;
     color: #4a6fa5;
     text-decoration: none;
 }
 
+main + nav > a:hover,
 nav + nav > a:hover {
     color: #2d4d7a;
 }
