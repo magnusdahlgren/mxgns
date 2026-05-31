@@ -177,9 +177,29 @@ time a:hover {
     color: #555;
 }
 
+/* === Read more link === */
+
+.read-more {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: #1a1a1a;
+    text-decoration: none;
+}
+
+.read-more:hover {
+    color: #888;
+}
+
 /* === Nav: shared base === */
 
 main + nav {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 0 1.5rem 2rem;
+}
+
+nav + nav {
     max-width: 680px;
     margin: 0 auto;
     padding: 0 1.5rem 5rem;
@@ -187,13 +207,13 @@ main + nav {
 
 /* === Nav: back link (individual post page) === */
 
-main + nav > a {
-    font-size: 0.8rem;
+nav + nav > a {
+    font-size: 0.85rem;
     color: #888;
     text-decoration: none;
 }
 
-main + nav > a:hover {
+nav + nav > a:hover {
     color: #1a1a1a;
 }
 
