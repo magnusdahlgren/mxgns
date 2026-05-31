@@ -32,12 +32,12 @@ header a {
     font-weight: 500;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: #1a1a1a;
+    color: #4a6fa5;
     text-decoration: none;
 }
 
 header a:hover {
-    color: #999;
+    color: #2d4d7a;
 }
 
 /* === Main layout === */
