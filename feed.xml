@@ -4,20 +4,20 @@
   <link href="https://mxgns.uk" />
   <link rel="self" href="https://mxgns.uk/feed.xml" />
   <id>https://mxgns.uk/</id>
-  <updated>2026-05-30T00:00:00Z</updated>
+  <updated>2026-05-30T00:00:05Z</updated>
   <author><name>MXGNS</name></author>
   <entry>
     <title>30 May 2026</title>
     <link href="https://mxgns.uk/5.html" />
     <id>https://mxgns.uk/5.html</id>
-    <updated>2026-05-30T00:00:00Z</updated>
+    <updated>2026-05-30T00:00:05Z</updated>
     <content type="html"><![CDATA[<p>I'm moving on Wednesday, so today was the last Saturday with this particular routine.</p>]]></content>
   </entry>
   <entry>
     <title>How (A)I built this blog</title>
     <link href="https://mxgns.uk/4.html" />
     <id>https://mxgns.uk/4.html</id>
-    <updated>2026-05-30T00:00:00Z</updated>
+    <updated>2026-05-30T00:00:04Z</updated>
     <content type="html"><![CDATA[<p>AI is definitely a big help for me as an infrequent coder. For a while now, I’ve been pasting code and errors into Claude or ChatGPT to get some help, like “What does this error mean?” or “What is the correct way of doing this in React?”</p>
 <p>The blog you’re reading right now is the first time I’ve let the AI actually <em>build</em> an application. Admittedly, it’s very basic: a static site generator in Python, using templates and publishing to the web, but looking back, I haven’t actually written a single line of code or barely even looked at one.</p>
 <p>Here’s what I did:</p>
@@ -39,21 +39,21 @@
     <title>Wish I were here</title>
     <link href="https://mxgns.uk/3.html" />
     <id>https://mxgns.uk/3.html</id>
-    <updated>2026-05-27T00:00:00Z</updated>
+    <updated>2026-05-27T00:00:03Z</updated>
     <content type="html"><![CDATA[<p>We've just had the two hottest May days or record in the UK, and I've been wishing it was last summer again and I were in Svalbard.</p>]]></content>
   </entry>
   <entry>
     <title>25 May 2026</title>
     <link href="https://mxgns.uk/2.html" />
     <id>https://mxgns.uk/2.html</id>
-    <updated>2026-05-25T00:00:00Z</updated>
+    <updated>2026-05-25T00:00:02Z</updated>
     <content type="html"><![CDATA[<p>Daytrip to Brighton</p>]]></content>
   </entry>
   <entry>
     <title>First post!</title>
     <link href="https://mxgns.uk/1.html" />
     <id>https://mxgns.uk/1.html</id>
-    <updated>2026-05-24T00:00:00Z</updated>
+    <updated>2026-05-24T00:00:01Z</updated>
     <content type="html"><![CDATA[<p>Welcome to my new blog!</p>
 <p>Like so many things these days, it all started with an AI prompt:</p>
 <blockquote>
