@@ -3,8 +3,9 @@
   <title>MXGNS</title>
   <link href="https://mxgns.uk" />
   <link rel="self" href="https://mxgns.uk/feed.xml" />
-  <id>https://mxgns.uk</id>
+  <id>https://mxgns.uk/</id>
   <updated>2026-05-30T00:00:00Z</updated>
+  <author><name>MXGNS</name></author>
   <entry>
     <title>30 May 2026</title>
     <link href="https://mxgns.uk/5.html" />
