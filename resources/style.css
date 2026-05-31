@@ -74,7 +74,7 @@ article > h1 a {
 }
 
 article > h1 a:hover {
-    color: #555;
+    color: #4a6fa5;
 }
 
 /* === Images === */
@@ -112,6 +112,14 @@ article.single-post .post-images img {
 }
 
 /* === Post body === */
+
+.post-body a {
+    color: #4a6fa5;
+}
+
+.post-body a:hover {
+    color: #2d4d7a;
+}
 
 .post-body {
     font-size: 0.95rem;
@@ -174,7 +182,7 @@ time a {
 }
 
 time a:hover {
-    color: #555;
+    color: #4a6fa5;
 }
 
 /* === Read more link === */
@@ -183,12 +191,12 @@ time a:hover {
     display: inline-block;
     margin-top: 0.5rem;
     font-size: 0.9rem;
-    color: #1a1a1a;
+    color: #4a6fa5;
     text-decoration: none;
 }
 
 .read-more:hover {
-    color: #888;
+    color: #2d4d7a;
 }
 
 /* === Nav: shared base === */
@@ -209,12 +217,12 @@ nav + nav {
 
 nav + nav > a {
     font-size: 0.85rem;
-    color: #888;
+    color: #4a6fa5;
     text-decoration: none;
 }
 
 nav + nav > a:hover {
-    color: #1a1a1a;
+    color: #2d4d7a;
 }
 
 /* === Nav: pagination (index pages) === */
@@ -232,10 +240,10 @@ main + nav > ul li.older {
 
 main + nav > ul a {
     font-size: 0.85rem;
-    color: #888;
+    color: #4a6fa5;
     text-decoration: none;
 }
 
 main + nav > ul a:hover {
-    color: #1a1a1a;
+    color: #2d4d7a;
 }
