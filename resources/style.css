@@ -199,6 +199,46 @@ time a:hover {
     color: #2d4d7a;
 }
 
+/* === Archive === */
+
+main section + section {
+    margin-top: 1.5rem;
+}
+
+main section h2 {
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #aaa;
+    margin: 0 0 0.3rem;
+}
+
+main section ul {
+    list-style: disc;
+    padding-left: 1.2rem;
+    margin: 0;
+}
+
+main section li {
+    margin-bottom: 0;
+    line-height: 1.4;
+}
+
+main section li::marker {
+    font-size: 0.6em;
+}
+
+main section a {
+    font-size: 0.85rem;
+    color: #4a6fa5;
+    text-decoration: none;
+}
+
+main section a:hover {
+    color: #2d4d7a;
+}
+
 /* === Footer === */
 
 body > footer {
