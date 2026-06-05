@@ -191,6 +191,13 @@ code {
     line-height: 1.7;
 }
 
+/* === Micro-post === */
+
+article.micro-post .post-body {
+    font-size: 1.15rem;
+    font-weight: 400;
+}
+
 /* === Date === */
 
 article footer {
