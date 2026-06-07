@@ -88,7 +88,7 @@ article > h1 a:hover {
 }
 
 .post-images figure + figure {
-    margin-top: 3px;
+    margin-top: 16px;
 }
 
 .post-images img {
