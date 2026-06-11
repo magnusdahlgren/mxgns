@@ -4,8 +4,25 @@
   <link href="https://mxgns.uk" />
   <link rel="self" href="https://mxgns.uk/feed.xml" />
   <id>https://mxgns.uk/</id>
-  <updated>2026-06-08T00:00:18Z</updated>
+  <updated>2026-06-11T00:00:19Z</updated>
   <author><name>MXGNS</name></author>
+  <entry>
+    <title>I&#x27;ve moved to DuckDuckGo</title>
+    <link href="https://mxgns.uk/19.html" />
+    <id>https://mxgns.uk/19.html</id>
+    <updated>2026-06-11T00:00:19Z</updated>
+    <content type="html"><![CDATA[<p>Encouraged by a colleague, I've switched to using DuckDuckGo as my default search engine instead of Google.</p>
+<p>It's not even about privacy for me, and only a little about avoiding the ads. Instead, it's all about getting rid of the nonsense AI response at the top of the results.</p>
+<p>There's been this example floating around the web for months:</p>
+<blockquote>
+<p><strong>Will it be 2027 next year?</strong></p>
+<p>Next year will be 2028 and 2027 will be year after that. It is 2026 right now, and will be 2028 next year, followed by 2027.
+</p>
+</blockquote>
+<p>After several months of people posting screenshots and poking fun at it, Google's AI is just getting <em>more</em> convinced, using those posts as a reference. Someone said so on the internet, so it must be true!</p>
+<p>This is the most blatant example, but for most other things, the primary source seems to be either a random bloke on Reddit saying something or some page that, when you click through to it, says nothing about the topic at all.</p>
+<p>So, no thank you. I’m quite happy getting real search results instead.</p>]]></content>
+  </entry>
   <entry>
     <title>8 June 2026</title>
     <link href="https://mxgns.uk/18.html" />
