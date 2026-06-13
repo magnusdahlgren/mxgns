@@ -4,22 +4,29 @@
   <link href="https://mxgns.uk" />
   <link rel="self" href="https://mxgns.uk/feed.xml" />
   <id>https://mxgns.uk/</id>
-  <updated>2026-06-13T00:00:23Z</updated>
+  <updated>2026-06-13T00:00:24Z</updated>
   <author><name>MXGNS</name></author>
+  <entry>
+    <title>Saturday</title>
+    <link href="https://mxgns.uk/24.html" />
+    <id>https://mxgns.uk/24.html</id>
+    <updated>2026-06-13T00:00:24Z</updated>
+    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/24-image-01-resized.jpg" alt="Bowl of pick&#x27;n&#x27;mix candy"></figure><p>Saturday means pick&rsquo;n&rsquo;mix 😋</p>]]></content>
+  </entry>
   <entry>
     <title>Old routine</title>
     <link href="https://mxgns.uk/23.html" />
     <id>https://mxgns.uk/23.html</id>
     <updated>2026-06-13T00:00:23Z</updated>
-    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/23-image-01-resized.jpg" alt="Starbucks and The Guardian"></figure><p>Lately, I've gotten back into my routine from years ago, reading the physical weekend paper in a cafe.</p>
-<p>Today, I note David Hockney's passing. Sad times. It's just 7 weeks since we saw his exhibition at the Serpentine Gallery.</p>]]></content>
+    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/23-image-01-resized.jpg" alt="Starbucks and The Guardian"></figure><p>Lately, I&rsquo;ve gotten back into my routine from years ago, reading the physical weekend paper in a cafe.</p>
+<p>Today, I note David Hockney&rsquo;s passing. Sad times. It&rsquo;s not even 2 months since we saw his exhibition at the Serpentine Gallery.</p>]]></content>
   </entry>
   <entry>
     <title>Character counter tool</title>
     <link href="https://mxgns.uk/22.html" />
     <id>https://mxgns.uk/22.html</id>
     <updated>2026-06-13T00:00:22Z</updated>
-    <content type="html"><![CDATA[<p>Here's a little hand-cranked tool for counting the number of characters of a text. I've created it for when posting microblog posts here on the blog, as those can only be 240 characters long.</p>
+    <content type="html"><![CDATA[<p>Here&rsquo;s a little hand-cranked tool for counting the number of characters of a text. I&rsquo;ve created it for when posting microblog posts here on the blog, as those can only be 240 characters long.</p>
 <style>
 
     #counter-form {
@@ -109,15 +116,15 @@
     <link href="https://mxgns.uk/19.html" />
     <id>https://mxgns.uk/19.html</id>
     <updated>2026-06-11T00:00:19Z</updated>
-    <content type="html"><![CDATA[<p>Encouraged by a colleague, I've switched to using DuckDuckGo as my default search engine instead of Google.</p>
-<p>It's not even about privacy for me, and only a little about avoiding the ads. Instead, it's all about getting rid of the nonsense AI response at the top of the results.</p>
-<p>There's been this example floating around the web for months:</p>
+    <content type="html"><![CDATA[<p>Encouraged by a colleague, I&rsquo;ve switched to using DuckDuckGo as my default search engine instead of Google.</p>
+<p>It&rsquo;s not even about privacy for me, and only a little about avoiding the ads. Instead, it&rsquo;s all about getting rid of the nonsense AI response at the top of the results.</p>
+<p>There&rsquo;s been this example floating around the web for months:</p>
 <blockquote>
 <p><strong>Will it be 2027 next year?</strong></p>
 <p><mark>It is 2026 right now, and will be 2028 next year, followed by 2027.</mark></p>
 <p>Source: Google</p>
 </blockquote>
-<p>After several months of people posting screenshots and poking fun at it, Google's AI is just getting <em>more</em> convinced, using those posts as a reference. Someone said so on the internet, so it must be true!</p>
+<p>After several months of people posting screenshots and poking fun at it, Google&rsquo;s AI is just getting <em>more</em> convinced, using those posts as a reference. Someone said so on the internet, so it must be true!</p>
 <p>This is the most blatant example, but for most other things, the primary source seems to be either a random bloke on Reddit saying something or some page that, when you click through to it, says nothing about the topic at all.</p>
 <p>So, no thank you. I’m quite happy getting real search results instead.</p>]]></content>
   </entry>
@@ -126,8 +133,8 @@
     <link href="https://mxgns.uk/18.html" />
     <id>https://mxgns.uk/18.html</id>
     <updated>2026-06-08T00:00:18Z</updated>
-    <content type="html"><![CDATA[<p>It's amusing/annoying how the Apple devices at home respond whenever anyone says "Hey Siri" in the video stream during the WWDC keynote.</p>
-<p>Aside from that, I'd say it was a bit of a yawn this year 😴</p>]]></content>
+    <content type="html"><![CDATA[<p>It&rsquo;s amusing/annoying how the Apple devices at home respond whenever anyone says &ldquo;Hey Siri&rdquo; in the video stream during the WWDC keynote.</p>
+<p>Aside from that, I&rsquo;d say it was a bit of a yawn this year 😴</p>]]></content>
   </entry>
   <entry>
     <title>At the front</title>
@@ -141,7 +148,7 @@
     <link href="https://mxgns.uk/16.html" />
     <id>https://mxgns.uk/16.html</id>
     <updated>2026-06-07T00:00:16Z</updated>
-    <content type="html"><![CDATA[<p>I just realised I've moved to a different hemisphere! I’ve gone all the way from <code>0.054° W</code> to <code>0.001° E</code>, about 60 metres across the Prime Meridian!</p>]]></content>
+    <content type="html"><![CDATA[<p>I just realised I&rsquo;ve moved to a different hemisphere! I’ve gone all the way from <code>0.054° W</code> to <code>0.001° E</code>, about 60 metres across the Prime Meridian!</p>]]></content>
   </entry>
   <entry>
     <title>V&amp;A East</title>
@@ -162,7 +169,7 @@
     <link href="https://mxgns.uk/13.html" />
     <id>https://mxgns.uk/13.html</id>
     <updated>2026-06-07T00:00:13Z</updated>
-    <content type="html"><![CDATA[<p>I'd forgotten quite how old old-style banks are. A standing order can't go out on the weekend? Does a clerk need to print it out, take it to the accounts department, and hand it to another clerk? 🤨</p>]]></content>
+    <content type="html"><![CDATA[<p>I&rsquo;d forgotten quite how old old-style banks are. A standing order can&rsquo;t go out on the weekend? Does a clerk need to print it out, take it to the accounts department, and hand it to another clerk? 🤨</p>]]></content>
   </entry>
   <entry>
     <title>New views</title>
@@ -176,7 +183,7 @@
     <link href="https://mxgns.uk/11.html" />
     <id>https://mxgns.uk/11.html</id>
     <updated>2026-06-05T00:00:11Z</updated>
-    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/11-image-01-resized.jpg" alt="Map from home near East India on the DLR to my office near Shoreditch High Street on the Windrush Line."></figure><p>This is my first commute by public transport in eight years. It takes just under 40 minutes door to door but I'm no longer getting my 10K steps per day.</p>]]></content>
+    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/11-image-01-resized.jpg" alt="Map from home near East India on the DLR to my office near Shoreditch High Street on the Windrush Line."></figure><p>This is my first commute by public transport in eight years. It takes just under 40 minutes door to door but I&rsquo;m no longer getting my 10K steps per day.</p>]]></content>
   </entry>
   <entry>
     <title>5 June 2026</title>
@@ -220,7 +227,7 @@
     <updated>2026-06-01T00:00:06Z</updated>
     <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/6-image-01-resized.jpg" alt="Stacked moving boxes"></figure><p>I always find it sad to move out of a place, no matter where I’m moving <em>to,</em> and this place has been the place I call home for much longer than I could have ever imagined when I moved in in April 2014.</p>
 <p>Flat 7 has been a nice little place, and I’ve particularly enjoyed how easy it’s been not to buy a lot of stuff when living here. It just wouldn’t fit!</p>
-<p>All good things come to an end, and we’ve realised it is time for a bit more space. Getting up at different times or both of us working from home hasn't been easy when there’s no separate room and no doors.</p>
+<p>All good things come to an end, and we’ve realised it is time for a bit more space. Getting up at different times or both of us working from home hasn&rsquo;t been easy when there’s no separate room and no doors.</p>
 <p>On Wednesday, we’re moving into a temporary flat until we can get our new home. Hopefully, it shouldn’t be too long now!</p>]]></content>
   </entry>
   <entry>
@@ -228,7 +235,7 @@
     <link href="https://mxgns.uk/5.html" />
     <id>https://mxgns.uk/5.html</id>
     <updated>2026-05-30T00:00:05Z</updated>
-    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/5-image-01-resized.jpeg" alt="Brunch plates"></figure><p>I'm moving on Wednesday, so today was the last Saturday with this particular routine.</p>]]></content>
+    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/5-image-01-resized.jpeg" alt="Brunch plates"></figure><p>I&rsquo;m moving on Wednesday, so today was the last Saturday with this particular routine.</p>]]></content>
   </entry>
   <entry>
     <title>How (A)I built this blog</title>
@@ -257,7 +264,7 @@
     <link href="https://mxgns.uk/3.html" />
     <id>https://mxgns.uk/3.html</id>
     <updated>2026-05-27T00:00:03Z</updated>
-    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/3-image-01-resized.jpeg" alt="A glacier entering the sea between pointy mountains"></figure><p>We've just had the two hottest May days or record in the UK, and I've been wishing it was last summer again and I were in Svalbard.</p>
+    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/3-image-01-resized.jpeg" alt="A glacier entering the sea between pointy mountains"></figure><p>We&rsquo;ve just had the two hottest May days or record in the UK, and I&rsquo;ve been wishing it was last summer again and I were in Svalbard.</p>
 <p>(Photo from 26/8/2025)</p>]]></content>
   </entry>
   <entry>
@@ -276,7 +283,7 @@
 <p>Like so many things these days, it all started with an AI prompt:</p>
 <blockquote>
 <p>I miss personal blogs and an Internet free of slop and ads.</p>
-<p>I want to build a pre-algorithm kind of site for myself. I want it to kind of feel like a platform but don't want anyone else on there, no likes or anything.</p>
+<p>I want to build a pre-algorithm kind of site for myself. I want it to kind of feel like a platform but don&rsquo;t want anyone else on there, no likes or anything.</p>
 <p>It will be a mix of photos and short text.</p>
 </blockquote>
 <p>After spending a few hours writing a spec, I now have a custom-built site generator in Python resulting in the site you are looking at right now.</p>
