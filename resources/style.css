@@ -6,9 +6,14 @@
     box-sizing: border-box;
 }
 
+textarea {
+    font-family: inherit;
+    font-size: inherit;
+}
+
 body {
-    font-family: "DM Sans", system-ui, sans-serif;
-    font-size: 16px;
+    font-family: "Roboto Slab", Georgia, serif;
+    font-size: 19px;
     line-height: 1.65;
     color: #1a1a1a;
     background: #fff;
@@ -23,12 +28,12 @@ img {
 /* === Header === */
 
 header {
-    padding: 3rem 1.5rem 2.5rem;
+    padding: 3rem 1.5rem 3.5rem;
     text-align: center;
 }
 
 header a {
-    font-size: 2em;
+    font-size: 2.4em;
     font-weight: 500;
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -51,7 +56,7 @@ main {
 /* === Articles === */
 
 article {
-    margin-bottom: 4rem;
+    margin-bottom: 2.5rem;
 }
 
 article + article {
@@ -62,7 +67,7 @@ article + article {
 /* === Post title === */
 
 article > h1 {
-    font-size: 1.4rem;
+    font-size: 1.55rem;
     font-weight: 500;
     line-height: 1.3;
     margin: 0 0 0.9rem;
@@ -78,7 +83,7 @@ article > h1 a:hover {
 }
 
 article.single-post > h1 {
-    font-size: 1.6rem;
+    font-size: 1.8rem;
 }
 
 /* === Images === */
@@ -181,7 +186,7 @@ mark {
 /* === Code === */
 
 code {
-    font-family: "Share Tech Mono", "Courier New", Courier, monospace;
+    font-family: "Source Code Pro", "Courier New", Courier, monospace;
     font-size: 1em;
     background: #f2f2f2;
     padding: 0.15em 0.4em;
@@ -218,22 +223,22 @@ article footer {
 }
 
 time {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     color: #888;
 }
 
 time a {
-    color: #888;
+    color: #4a6fa5;
     text-decoration: none;
 }
 
 time a:hover {
-    color: #4a6fa5;
+    color: #2d4d7a;
 }
 
 time a:hover::after {
-    content: ' →';
-    color: #4a6fa5;
+    content: " →";
+    color: #2d4d7a;
 }
 
 /* === More photos link === */
@@ -419,7 +424,7 @@ body > footer ul {
 }
 
 body > footer li {
-    font-size: 0.8rem;
+    font-size: 0.95rem;
     color: #bbb;
 }
 
@@ -459,7 +464,7 @@ nav:last-of-type {
 
 main + nav > a,
 nav + nav > a {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     color: #4a6fa5;
     text-decoration: none;
 }
@@ -483,7 +488,7 @@ main + nav > ul li.older {
 }
 
 main + nav > ul a {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     color: #4a6fa5;
     text-decoration: none;
 }
@@ -500,8 +505,8 @@ main + nav > ul li.newer a::before,
 main + nav > ul li.older a::after {
     content: "";
     display: inline-block;
-    width: 0.8em;
-    height: 0.8em;
+    width: 0.9em;
+    height: 0.9em;
     background-color: currentColor;
     -webkit-mask-size: contain;
     mask-size: contain;
