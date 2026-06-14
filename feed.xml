@@ -164,7 +164,7 @@
     </div>
 </div>
 
-<p>I&rsquo;m making these Creative Commons so you are welcome to download the CSS in case you want to play around.</p>
+<p>I&rsquo;m making these Creative Commons and you are welcome to download the CSS in case you want to play around.</p>
 <p>After importing the stylesheet, each icon can be displayed by using <code>&lt;i class='flag-a'&gt;&lt;/i&gt;</code>, <code>&lt;i class='flag-b'&gt;&lt;/i&gt;</code> etc.</p>
 <p><a href="resources/flags.css" class="download-link">flags.css</a></p>
 <p><span style="font-size:2rem;">
