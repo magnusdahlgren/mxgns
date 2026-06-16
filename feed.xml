@@ -7,11 +7,11 @@
   <updated>2026-06-16T00:00:29Z</updated>
   <author><name>MXGNS</name></author>
   <entry>
-    <title>Test post for internal testing</title>
+    <title>This is just a test post</title>
     <link href="https://mxgns.uk/29.html" />
     <id>https://mxgns.uk/29.html</id>
     <updated>2026-06-16T00:00:29Z</updated>
-    <content type="html"><![CDATA[<p>This is a test post to test different styles etc. Feel free to ignore 🙂</p>
+    <content type="html"><![CDATA[<p>This is just a test post to test different styles etc. Feel free to ignore 🙂</p>
 <h3>Heading level 3</h3>
 <p>I have a number of different styles available. These include <strong>bold</strong>, as well as <em>italic</em>. Also, it is possible to <mark>highlight text</mark> using mark. Sometimes, posts will include <a href="/">links to other posts</a>, which can be handy.</p>
 <h4>Heading level 4</h4>
