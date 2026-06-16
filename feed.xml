@@ -4,14 +4,36 @@
   <link href="https://mxgns.uk" />
   <link rel="self" href="https://mxgns.uk/feed.xml" />
   <id>https://mxgns.uk/</id>
-  <updated>2026-06-16T00:00:28Z</updated>
+  <updated>2026-06-16T00:00:29Z</updated>
   <author><name>MXGNS</name></author>
+  <entry>
+    <title>Test post for internal testing</title>
+    <link href="https://mxgns.uk/29.html" />
+    <id>https://mxgns.uk/29.html</id>
+    <updated>2026-06-16T00:00:29Z</updated>
+    <content type="html"><![CDATA[<p>This is a test post to test different styles etc. Feel free to ignore 🙂</p>
+<h3>Heading level 3</h3>
+<p>I have a number of different styles available. These include <strong>bold</strong>, as well as <em>italic</em>. Also, it is possible to <mark>highlight text</mark> using mark. Sometimes, posts will include <a href="/">links to other posts</a>, which can be handy.</p>
+<h4>Heading level 4</h4>
+<p>And then we have the different lists, which are usefull when wanting to list things. There are two different types of lists, starting with un-ordered ones:</p>
+<ul>
+<li>This is the first item</li>
+<li>Item number two this is</li>
+<li>Three items is kind of a common case</li>
+</ul>
+<p>And then there are ordered lists which hava a number in front of each item:</p>
+<ol>
+<li>This is the first item</li>
+<li>Item number two this is</li>
+<li>Three items is kind of a common case</li>
+</ol>]]></content>
+  </entry>
   <entry>
     <title>16 June 2026</title>
     <link href="https://mxgns.uk/28.html" />
     <id>https://mxgns.uk/28.html</id>
     <updated>2026-06-16T00:00:28Z</updated>
-    <content type="html"><![CDATA[<p>The fact that we have 24 moving boxes we haven&rsquo;t unpacked yet suggests that even in the tiny flat we had before, we had a lot more stuff than necessary.</p>]]></content>
+    <content type="html"><![CDATA[<p>The fact that we have 24 moving boxes we haven&rsquo;t unpacked yet suggests that even in the tiny flat we had before, we had a lot more stuff than necessary!</p>]]></content>
   </entry>
   <entry>
     <title>The Serpentine Pavilion 2026</title>
