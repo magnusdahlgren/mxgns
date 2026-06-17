@@ -4,84 +4,21 @@
   <link href="https://mxgns.uk" />
   <link rel="self" href="https://mxgns.uk/feed.xml" />
   <id>https://mxgns.uk/</id>
-  <updated>2026-06-16T00:00:29Z</updated>
+  <updated>2026-06-17T00:00:31Z</updated>
   <author><name>MXGNS</name></author>
   <entry>
-    <title>This is just a test post</title>
-    <link href="https://mxgns.uk/29.html" />
-    <id>https://mxgns.uk/29.html</id>
-    <updated>2026-06-16T00:00:29Z</updated>
-    <content type="html"><![CDATA[<p>This is just a test post to test different styles etc. Feel free to ignore 🙂</p>
-<h3>Heading level 3</h3>
-<p>I have a number of different styles available. These include <strong>bold</strong>, as well as <em>italic</em>. Also, it is possible to <mark>highlight text</mark> using mark. Sometimes, posts will include <a href="/">links to other posts</a>, which can be handy.</p>
-<h4>Heading level 4</h4>
-<p>And then we have the different lists, which are usefull when wanting to list things. There are two different types of lists, starting with un-ordered ones:</p>
-<ul>
-<li>This is the first item</li>
-<li>Item number two this is</li>
-<li>Three items is kind of a common case</li>
-</ul>
-<p>And then there are ordered lists which hava a number in front of each item:</p>
-<ol>
-<li>This is the first item</li>
-<li>Item number two this is</li>
-<li>Three items is kind of a common case</li>
-</ol>
-<h3>Colour palette</h3>
-<div style="display:flex;flex-wrap:wrap;gap:24px;font-family:monospace;font-size:14px;">
-  <div style="display:flex;flex-direction:column;gap:8px;flex:1;min-width:180px;">
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--black);flex-shrink:0;"></div>
-      <code>--black</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--grey-600);flex-shrink:0;"></div>
-      <code>--grey-600</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--grey-400);flex-shrink:0;"></div>
-      <code>--grey-400</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--grey-300);flex-shrink:0;"></div>
-      <code>--grey-300</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--grey-200);flex-shrink:0;"></div>
-      <code>--grey-200</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--grey-150);flex-shrink:0;"></div>
-      <code>--grey-150</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--grey-100);flex-shrink:0;"></div>
-      <code>--grey-100</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--white);flex-shrink:0;outline:1px solid var(--grey-300);"></div>
-      <code>--white</code>
-    </div>
-  </div>
-  <div style="display:flex;flex-direction:column;gap:8px;flex:1;min-width:180px;">
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--blue-600);flex-shrink:0;"></div>
-      <code>--blue-600</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--blue-800);flex-shrink:0;"></div>
-      <code>--blue-800</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--yellow-300);flex-shrink:0;"></div>
-      <code>--yellow-300</code>
-    </div>
-    <div style="display:flex;align-items:center;gap:12px;">
-      <div style="width:60px;height:40px;background-color:var(--yellow-500);flex-shrink:0;"></div>
-      <code>--yellow-500</code>
-    </div>
-  </div>
-</div>]]></content>
+    <title>Serpentine Pavilion 2014</title>
+    <link href="https://mxgns.uk/31.html" />
+    <id>https://mxgns.uk/31.html</id>
+    <updated>2026-06-17T00:00:31Z</updated>
+    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/31-image-01-resized.jpeg" alt="Pavilion from the side"></figure><figure><img src="https://mxgns.uk/31-image-02-resized.jpeg" alt="Window detail"></figure><figure><img src="https://mxgns.uk/31-image-03-resized.jpeg" alt="Entrance detail"></figure><figure><img src="https://mxgns.uk/31-image-04-resized.jpeg" alt="Pavilion from the other side"></figure><p>As much as I like this year&rsquo;s Serpentine Pavilion, my favourite is still Smiljan Radić&rsquo;s one from 2014.</p>]]></content>
+  </entry>
+  <entry>
+    <title>17 June 2026</title>
+    <link href="https://mxgns.uk/30.html" />
+    <id>https://mxgns.uk/30.html</id>
+    <updated>2026-06-17T00:00:30Z</updated>
+    <content type="html"><![CDATA[<p>Our next flat is progressing very slowly, but today has an important gate to pass, so fingers crossed 🤞</p>]]></content>
   </entry>
   <entry>
     <title>16 June 2026</title>
@@ -91,7 +28,7 @@
     <content type="html"><![CDATA[<p>The fact that we have 24 moving boxes we haven&rsquo;t unpacked yet suggests that even in the tiny flat we had before, we had a lot more stuff than necessary!</p>]]></content>
   </entry>
   <entry>
-    <title>The Serpentine Pavilion 2026</title>
+    <title>Serpentine Pavilion 2026</title>
     <link href="https://mxgns.uk/27.html" />
     <id>https://mxgns.uk/27.html</id>
     <updated>2026-06-15T00:00:27Z</updated>
