@@ -1,7 +1,7 @@
 /* === Colours: palette === */
 
 :root {
-    --grey-900: #1a1a1a;
+    --black: #1a1a1a;
     --grey-600: #888;
     --grey-400: #aaa;
     --grey-300: #bbb;
@@ -10,11 +10,11 @@
     --grey-100: #f2f2f2;
     --white: #fff;
 
-    --blue-600: #4a6fa5;
-    --blue-800: #2d4d7a;
+    --blue-600: #2060bf;
+    --blue-800: #13408c;
 
-    --yellow-300: #fff176;
-    --yellow-500: #e8a000;
+    --yellow-300: #fde68a;
+    --yellow-500: #cc8800;
 }
 
 /* === Reset & base === */
@@ -38,7 +38,7 @@ body {
     font-family: "Roboto Slab", Georgia, serif;
     font-size: 1.1875rem;
     line-height: 1.65;
-    color: var(--grey-900);
+    color: var(--black);
     background: var(--white);
     margin: 0;
     -webkit-font-smoothing: antialiased;
@@ -60,7 +60,7 @@ header a {
     font-weight: 500;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: var(--grey-900);
+    color: var(--black);
     text-decoration: none;
     display: inline-block;
     transition:
@@ -110,7 +110,7 @@ article > h2 {
 
 article > h1 a,
 article > h2 a {
-    color: var(--grey-900);
+    color: var(--black);
     text-decoration: none;
 }
 
@@ -165,7 +165,7 @@ article.single-post .post-images img {
 
 .post-body {
     font-size: 1rem;
-    color: var(--grey-900);
+    color: var(--black);
 }
 
 .post-body p {
@@ -189,14 +189,14 @@ article.single-post .post-images img {
     font-size: 1.25rem;
     font-weight: 500;
     margin: 1.4rem 0 0.4rem;
-    color: var(--grey-900);
+    color: var(--black);
 }
 
 .post-body h4 {
     font-size: 1.1rem;
     font-weight: 500;
     margin: 1.2rem 0 0.3rem;
-    color: var(--grey-900);
+    color: var(--black);
 }
 
 /* === Highlighted text === */
@@ -422,7 +422,7 @@ main > ul li {
 }
 
 main > ul li::marker {
-    color: var(--grey-900);
+    color: var(--black);
     font-size: 0.7em;
 }
 
@@ -454,7 +454,7 @@ dl.archive-stats dt {
 
 dl.archive-stats dt.selected {
     font-weight: 500;
-    color: var(--grey-900);
+    color: var(--black);
 }
 
 dl.archive-stats dt::before {
@@ -595,7 +595,7 @@ body > footer li + li {
 }
 
 body > footer a {
-    color: var(--grey-900);
+    color: var(--black);
     text-decoration: none;
 }
 

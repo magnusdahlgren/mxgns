@@ -26,7 +26,62 @@
 <li>This is the first item</li>
 <li>Item number two this is</li>
 <li>Three items is kind of a common case</li>
-</ol>]]></content>
+</ol>
+<h3>Colour palette</h3>
+<div style="display:flex;flex-wrap:wrap;gap:24px;font-family:monospace;font-size:14px;">
+  <div style="display:flex;flex-direction:column;gap:8px;flex:1;min-width:180px;">
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--black);flex-shrink:0;"></div>
+      <code>--black</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--grey-600);flex-shrink:0;"></div>
+      <code>--grey-600</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--grey-400);flex-shrink:0;"></div>
+      <code>--grey-400</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--grey-300);flex-shrink:0;"></div>
+      <code>--grey-300</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--grey-200);flex-shrink:0;"></div>
+      <code>--grey-200</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--grey-150);flex-shrink:0;"></div>
+      <code>--grey-150</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--grey-100);flex-shrink:0;"></div>
+      <code>--grey-100</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--white);flex-shrink:0;outline:1px solid var(--grey-300);"></div>
+      <code>--white</code>
+    </div>
+  </div>
+  <div style="display:flex;flex-direction:column;gap:8px;flex:1;min-width:180px;">
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--blue-600);flex-shrink:0;"></div>
+      <code>--blue-600</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--blue-800);flex-shrink:0;"></div>
+      <code>--blue-800</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--yellow-300);flex-shrink:0;"></div>
+      <code>--yellow-300</code>
+    </div>
+    <div style="display:flex;align-items:center;gap:12px;">
+      <div style="width:60px;height:40px;background-color:var(--yellow-500);flex-shrink:0;"></div>
+      <code>--yellow-500</code>
+    </div>
+  </div>
+</div>]]></content>
   </entry>
   <entry>
     <title>16 June 2026</title>
