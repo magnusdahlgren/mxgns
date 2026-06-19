@@ -4,8 +4,102 @@
   <link href="https://mxgns.uk" />
   <link rel="self" href="https://mxgns.uk/feed.xml" />
   <id>https://mxgns.uk/</id>
-  <updated>2026-06-17T00:00:31Z</updated>
+  <updated>2026-06-19T00:00:32Z</updated>
   <author><name>MXGNS</name></author>
+  <entry>
+    <title>A study of rainbows</title>
+    <link href="https://mxgns.uk/32.html" />
+    <id>https://mxgns.uk/32.html</id>
+    <updated>2026-06-19T00:00:32Z</updated>
+    <content type="html"><![CDATA[<style>
+
+    .pride-text, .pride-logo-static, .my-pride-logo:hover {
+        background: linear-gradient(
+            to bottom,
+            #e0392c 0% 25%,
+            #e2922f 25% 35%,
+            #e8c93d 35% 45%,
+            #3e8a30 45% 55%,
+            #4fb0d6 55% 65%,
+            #2c4fe0 65% 75%,
+            #7e2289 75% 100%
+        );
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        color: transparent;
+    }
+
+    .pride-text {
+        display: inline-block;
+        line-height: 1;
+        padding: 0;
+    }
+
+    .my-pride-logo, .pride-logo-static {
+        font-wight: 500;
+        margin: 4rem 0;
+        text-align: center;
+        font-size: 5rem;
+        line-height: 1;
+        display: block;
+        transition:
+            transform 0.5s ease,
+            background 0.5s ease;
+        cursor: pointer;
+    }
+
+    .my-pride-logo:hover {
+        transform: scale(1.08);
+    }
+
+    .pride-flag {
+        display: inline-block;
+        width: 1.667em;
+        height: 1em;
+        background: linear-gradient(
+            to bottom,
+            #e0392c 0% 14.28%,
+            #e2922f 14.28% 28.57%,
+            #e8c93d 28.57% 42.85%,
+            #3e8a30 42.85% 57.14%,
+            #4fb0d6 57.14% 71.42%,
+            #2c4fe0 71.42% 85.71%,
+            #7e2289 85.71% 100%
+        );
+    }
+</style>
+
+<p>With it being Pride Month and all, I&rsquo;ve been playing around a little bit with CSS to create a rainbow hover state for my site logo.</p>
+<p>Here&rsquo;s a static version of the active state, for those on mobile:</p>
+<div class="pride-logo-static">MXGNS</div>
+
+<p>And here is the dynamic version in all it&rsquo;s glory:</p>
+<div class="my-pride-logo">MXGNS</div>
+
+<p>I quite like the effect 🙂</p>
+<p>Oh, and here is a leftover rainbow flag from the process:</p>
+<div style="font-size: 7rem; text-align: center; margin: 3rem 0;"><i class="pride-flag"></i></div>
+
+<p>Finally, here&rsquo;s the CSS for that flag, in case anyone wants to use it:</p>
+<pre><code>.pride-flag {
+    display: inline-block;
+    width: 1.667em;
+    height: 1em;
+    background: linear-gradient(
+        to bottom,
+        #e0392c 0% 14.28%,
+        #e2922f 14.28% 28.57%,
+        #e8c93d 28.57% 42.85%,
+        #3e8a30 42.85% 57.14%,
+        #4fb0d6 57.14% 71.42%,
+        #2c4fe0 71.42% 85.71%,
+        #7e2289 85.71% 100%
+    );
+}
+</code></pre>
+<p><i class="pride-flag"></i> Happy Pride!</p>]]></content>
+  </entry>
   <entry>
     <title>Serpentine Pavilion 2014</title>
     <link href="https://mxgns.uk/31.html" />

@@ -1,0 +1,38 @@
+.pride-logo {
+    transition:
+        transform 0.5s ease,
+        background 0.5s ease;
+}
+
+.pride-logo:hover {
+    background: linear-gradient(
+        to bottom,
+        #e0392c 0% 25%,
+        #e2922f 25% 35%,
+        #e8c93d 35% 45%,
+        #3e8a30 45% 55%,
+        #4fb0d6 55% 65%,
+        #2c4fe0 65% 75%,
+        #7e2289 75% 100%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+}
+
+.pride-flag {
+    display: inline-block;
+    width: 1.667em;
+    height: 1em;
+    background: linear-gradient(
+        to bottom,
+        #e0392c 0% 14.28%,
+        #e2922f 14.28% 28.57%,
+        #e8c93d 28.57% 42.85%,
+        #3e8a30 42.85% 57.14%,
+        #4fb0d6 57.14% 71.42%,
+        #2c4fe0 71.42% 85.71%,
+        #7e2289 85.71% 100%
+    );
+}

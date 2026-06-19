@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mxgns.uk/32.html</loc>
+    <lastmod>2026-06-19</lastmod>
+  </url>
+  <url>
     <loc>https://mxgns.uk/31.html</loc>
     <lastmod>2026-06-17</lastmod>
   </url>
@@ -118,15 +122,15 @@
   </url>
   <url>
     <loc>https://mxgns.uk/index.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/index-2.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/index-3.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/out-and-about.html</loc>
@@ -138,7 +142,7 @@
   </url>
   <url>
     <loc>https://mxgns.uk/making-things.html</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-19</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/life.html</loc>
@@ -158,6 +162,6 @@
   </url>
   <url>
     <loc>https://mxgns.uk/archive.html</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-06-19</lastmod>
   </url>
 </urlset>
