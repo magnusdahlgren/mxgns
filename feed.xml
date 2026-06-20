@@ -11,18 +11,18 @@
     <link href="https://mxgns.uk/32.html" />
     <id>https://mxgns.uk/32.html</id>
     <updated>2026-06-19T00:00:32Z</updated>
-    <content type="html"><![CDATA[<style>
+    <content type="html"><![CDATA[<p><link rel="stylesheet" href="resources/flags.css"></p>
+<style>
 
     .pride-text, .pride-logo-static, .my-pride-logo:hover {
         background: linear-gradient(
             to bottom,
             #e0392c 0% 25%,
-            #e2922f 25% 35%,
-            #e8c93d 35% 45%,
-            #3e8a30 45% 55%,
-            #4fb0d6 55% 65%,
-            #2c4fe0 65% 75%,
-            #7e2289 75% 100%
+            #e2922f 25% 40%,
+            #e8c93d 40% 55%,
+            #3e8a30 55% 70%,
+            #2c4fe0 70% 85%,
+            #7e2289 85% 100%
         );
         -webkit-background-clip: text;
         background-clip: text;
@@ -53,21 +53,20 @@
         transform: scale(1.08);
     }
 
-    .pride-flag {
-        display: inline-block;
-        width: 1.667em;
-        height: 1em;
-        background: linear-gradient(
-            to bottom,
-            #e0392c 0% 14.28%,
-            #e2922f 14.28% 28.57%,
-            #e8c93d 28.57% 42.85%,
-            #3e8a30 42.85% 57.14%,
-            #4fb0d6 57.14% 71.42%,
-            #2c4fe0 71.42% 85.71%,
-            #7e2289 85.71% 100%
-        );
-    }
+.pride-flag {
+    display: inline-block;
+    width: 1.667em;
+    height: 1em;
+    background: linear-gradient(
+        to bottom,
+        #e0392c 0% 16.67%,
+        #e2922f 16.67% 33.33%,
+        #e8c93d 33.33% 50%,
+        #3e8a30 50% 66.67%,
+        #2c4fe0 66.67% 83.33%,
+        #7e2289 83.33% 100%
+    );
+}
 </style>
 
 <p>With it being Pride Month and all, I&rsquo;ve been playing around a little bit with CSS to create a rainbow hover state for my site logo.</p>
@@ -88,13 +87,12 @@
     height: 1em;
     background: linear-gradient(
         to bottom,
-        #e0392c 0% 14.28%,
-        #e2922f 14.28% 28.57%,
-        #e8c93d 28.57% 42.85%,
-        #3e8a30 42.85% 57.14%,
-        #4fb0d6 57.14% 71.42%,
-        #2c4fe0 71.42% 85.71%,
-        #7e2289 85.71% 100%
+        #e0392c 0% 16.67%,
+        #e2922f 16.67% 33.33%,
+        #e8c93d 33.33% 50%,
+        #3e8a30 50% 66.67%,
+        #2c4fe0 66.67% 83.33%,
+        #7e2289 83.33% 100%
     );
 }
 </code></pre>
