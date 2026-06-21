@@ -4,8 +4,15 @@
   <link href="https://mxgns.uk" />
   <link rel="self" href="https://mxgns.uk/feed.xml" />
   <id>https://mxgns.uk/</id>
-  <updated>2026-06-20T00:00:34Z</updated>
+  <updated>2026-06-21T00:00:35Z</updated>
   <author><name>MXGNS</name></author>
+  <entry>
+    <title>The impact of moving home</title>
+    <link href="https://mxgns.uk/35.html" />
+    <id>https://mxgns.uk/35.html</id>
+    <updated>2026-06-21T00:00:35Z</updated>
+    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/35-image-01-resized.png" alt="Travel costs plus £43, daily flights climbed +5.5, daily steps minus 1.8K"></figure><p>Having to rely on public transport rather than walking does have a visible impact on my budget, but not as much as I worried in terms of my daily step count.</p>]]></content>
+  </entry>
   <entry>
     <title>20 June 2026</title>
     <link href="https://mxgns.uk/34.html" />
@@ -51,7 +58,7 @@
     }
 
     .my-pride-logo, .pride-logo-static {
-        font-wight: 500;
+        font-weight: 500;
         margin: 4rem 0;
         text-align: center;
         font-size: 5rem;
@@ -458,7 +465,7 @@
     <link href="https://mxgns.uk/15.html" />
     <id>https://mxgns.uk/15.html</id>
     <updated>2026-06-07T00:00:15Z</updated>
-    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/15-image-01-resized.jpg" alt="Skyline with the Orbit and the Olympic Stadium"></figure><p>The V&amp;A East museum was a bit of a mixed bag for me, tbh, but I enjoyed the view from the roof terrance.</p>]]></content>
+    <content type="html"><![CDATA[<figure><img src="https://mxgns.uk/15-image-01-resized.jpg" alt="Skyline with the Orbit and the Olympic Stadium"></figure><p>The V&amp;A East museum was a bit of a mixed bag for me, tbh, but I enjoyed the view from the roof terrace.</p>]]></content>
   </entry>
   <entry>
     <title>Lunch in Canary Wharf</title>
