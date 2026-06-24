@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mxgns.uk/36.html</loc>
+    <lastmod>2026-06-24</lastmod>
+  </url>
+  <url>
     <loc>https://mxgns.uk/35.html</loc>
     <lastmod>2026-06-22</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/34.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/33.html</loc>
@@ -134,19 +138,19 @@
   </url>
   <url>
     <loc>https://mxgns.uk/index.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/index-2.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/index-3.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/out-and-about.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
   <url>
     <loc>https://mxgns.uk/web-and-tech.html</loc>
@@ -169,6 +173,10 @@
     <lastmod>2026-06-15</lastmod>
   </url>
   <url>
+    <loc>https://mxgns.uk/inventory.html</loc>
+    <lastmod>2026-06-24</lastmod>
+  </url>
+  <url>
     <loc>https://mxgns.uk/looking-back.html</loc>
     <lastmod>2026-06-17</lastmod>
   </url>
@@ -178,6 +186,6 @@
   </url>
   <url>
     <loc>https://mxgns.uk/archive.html</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </url>
 </urlset>
